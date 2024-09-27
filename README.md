@@ -15,9 +15,14 @@ Correct the data in the "height" column by replacing it with random numbers betw
 ### Graphical Representation:
 For each of the five analysis tasks, create appropriate visualizations to present your findings effectively.<br>
 
-### Data Story: [ABC Company Comprehensive Data Analysis Report PDF](https://github.com/aneeshmurali-n/ABC-Company-Data-Analysis-Report/blob/4fc5b0bc7f89dc8101704fdcfb48a58706e2ac88/ABC%20Company%20Workforce%20Insights.pdf)
+### Data Story: 
 Provide insights gained from the analysis, highlighting key trends, patterns, and correlations within the dataset.<br>
+[ABC Company Comprehensive Data Analysis Report](https://github.com/aneeshmurali-n/ABC-Company-Data-Analysis-Report/blob/4fc5b0bc7f89dc8101704fdcfb48a58706e2ac88/ABC%20Company%20Workforce%20Insights.pdf)
 
-### Download Dataset From This Link:
+
+### Download Dataset : 
+[Dataset From ABC Company](https://github.com/aneeshmurali-n/ABC-Company-Data-Analysis-Report/blob/375fe942315f0888ae619477c3839169d2e3a600/myexcel.xlsx)
 
 
+### Project ipynb File : 
+[ABC_Company_Data_Analysis_Report.ipynb](https://github.com/aneeshmurali-n/ABC-Company-Data-Analysis-Report/blob/375fe942315f0888ae619477c3839169d2e3a600/ABC_Company_Data_Analysis_Report.ipynb)
